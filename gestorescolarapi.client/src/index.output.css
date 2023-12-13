@@ -846,7 +846,7 @@ video {
 }
 
 body {
-  margin: auto
+  margin: auto;
 }
 
 .hover\:bg-blue-600:hover {
